@@ -21,6 +21,6 @@ A decentralized expense-sharing application built with **Solidity**, **React.js*
 
 ```bash
 git clone https://github.com/harshitrajora/expense-tracker-dapp.git
-cd expense-tracker-dapp
+cd "expense-tracker-dapp/expense-tracker-dapp"
 npm install
 npm start
